@@ -4,6 +4,10 @@
 
 This repository contains code for Module 1
 
+To run the application, clone this repo and run the following command:
+
+`streamlit run pychain.py`
+
 The tasks for this module were to:
 
 1. Create a new data class named Record. This class will serve as the blueprint for the financial transaction records that the blocks of the ledger will store.
